@@ -1,0 +1,8 @@
+From this link:
+https://springernature.figshare.com/collections/I-BLEND_a_campus_scale_commercial_and_residential_buildings_electrical_energy_dataset/3893581
+we can obtain 
+
+- energy_dataset.zip: Here we extract the raw consumption data neccesary to compute the files inside "hourly_consumptions" folder
+- weather_comparison: The timestamps on weather data do not coincide with the ones in energy consumption, therefore, we contacted the authors and they shared the data inside "" folder
+- iiitd_calender_schedule: not used currently in our work
+- IIITD_occupancy_dataset: not used currently in our work

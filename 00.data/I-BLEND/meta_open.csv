@@ -1,0 +1,8 @@
+uid,dataend,datastart,energystarscore,heatingtype,industry,mainheatingtype,numberoffloors,occupants,primaryspaceusage,rating,sqft,sqm,subindustry,timezone,yearbuilt,nickname,primaryspaceuse_abbrev,newweatherfilename
+ACB-AcademicBuilding,,,,,Education,,5,,College Building,,61308,5695.6996,,Asia/Kolkata,2012,ACB,UnivLab,
+BH-BoysDormitoryBuidling,,,,,Education,,6,,Dormitory Building,,72745,6758.2316,,Asia/Kolkata,2012,BH,UnivDorm,
+DB -DiningBuilding,,,,,Education,,4,,Dining Buidling,,50191,4662.8965,,Asia/Kolkata,2012,DB,UnivDining,
+GH-GirlsDormitoryBuilding,,,,,Education,,4,,Dormitory Building,,38126,3542.0213,,Asia/Kolkata,2012,GH,UnivDorm,
+LB-LibraryBuilding,,,,,Education,,4,,College Building,,26401,2452.7332,,Asia/Kolkata,2012,LB,UnivLibrary,
+LCB-LectureBuilding,,,,,Education,,3,,College Building,,17548,1630.2625,,Asia/Kolkata,2012,LCB,UnivClass,
+SRB-FaciltiesBuilding,,,,,Education,,3,,Facilities Building,,9769,907.5698,,Asia/Kolkata,2012,SRB,Office,
