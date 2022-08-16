@@ -263,7 +263,7 @@ num_dissim=euclidean_dissim
 cat_dissim=matching_dissim
 cat_index = [1,2,3,5,7,8,10]
 num_index = list(set(range(0,X_hat.shape[1]))^set(cat_index))
-centroidsCat = centroids[cat_index]
+#centroidsCat = centroids[cat_index]
 # distance between points and their cluster prototype
 distances = labels_cost2(Xnum, Xcat, centroids, num_dissim, cat_dissim, gamma, labels)
 
